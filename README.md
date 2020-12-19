@@ -22,6 +22,20 @@
 
 ### My Experiences 🙌
 
+- Externship, [AT&T Summer Learning Academy](https://www.youracclaim.com/badges/b05777a7-0f0a-4829-92f6-97032d33f027) 
+    1. Performed task focused on technical and business acumen along with professional development.
+
+- Winter Intern, [MyGov](https://www.mygov.in/)
+    1. Performed carious tasks based on analysis, content research of various flagship projects.
+
+- Network Analyst Intern, [Unique Corporation]()
+    1. Responsible for monitoring and managing a local area network for maximum uptime for users.
+    2. Responsible for building and maintaining day-to-day operations of the computer network.
+
+- Machine Learning Intern, [Airports Authority of India]()
+    1. Build a simple face-detection algorithm to count the no. of the person using OpenCV.
+    2. Surveyed an upcoming project of the organisation.
+
 ### Honors & Awards 🏅
 
 - Selected as 1 of 5000 recipients for the [Introduction to Quantum Computing Course with IBM](https://www.qubitbyqubit.org/programs) offered by <b>QubitxQubit</b> whose aim is to expose students to this emerging field while providing them with real-world programming skills for quantum computers.
