@@ -36,11 +36,11 @@
     - Build a simple face-detection algorithm to count the no. of the person using OpenCV.
     - Surveyed an upcoming project of the organisation.
 
-### Honors & Awards 🏅
+### Awards 🏅
 
 - Selected as 1 of 5000 recipients for the [Introduction to Quantum Computing Course with IBM](https://www.qubitbyqubit.org/programs) offered by <b>QubitxQubit</b> whose aim is to expose students to this emerging field while providing them with real-world programming skills for quantum computers.
 - Selected as 1 of 5000 recipients for the [Bertelsmann Technology Scholarships](https://sites.google.com/udacity.com/bertelsmann-challenge/home?authuser=0) designed to upskill students interested in deep learning to build and deploy state-of-the-art deep learning models.
-- Selected as a scholarship recipient for [KubeCon + CloudNativeCon](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2019/) in 2020.
+- Selected as a scholarship recipient for [KubeCon + CloudNativeCon](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2020/) in 2020.
 
 ![Gautam's github stats](https://github-readme-stats.vercel.app/api?username=predator-coder&show_icons=true&hide_border=true)
 <br>
