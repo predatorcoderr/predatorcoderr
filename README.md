@@ -18,23 +18,23 @@
 ### About Me 🚀
 
 🎓 I’m a final-year pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻 I’m passionate about Blazor, Deep Learning & I am always curoius for learning new technologies. </br>
+👨‍💻 I’m passionate about Blazor, Deep Learning & I am always curious for learning new technologies(currently learning Quantum Computing). </br>
 
 ### My Experiences 🙌
 
-- Externship, [AT&T Summer Learning Academy](https://www.youracclaim.com/badges/b05777a7-0f0a-4829-92f6-97032d33f027) 
-    1. Performed task focused on technical and business acumen along with professional development.
+1. Externship, [AT&T Summer Learning Academy](https://www.youracclaim.com/badges/b05777a7-0f0a-4829-92f6-97032d33f027) 
+    - Performed task focused on technical and business acumen along with professional development.
 
-- Winter Intern, [MyGov](https://www.mygov.in/)
-    1. Performed carious tasks based on analysis, content research of various flagship projects.
+2. Winter Intern, [MyGov](https://www.mygov.in/)
+    - Performed carious tasks based on analysis, content research of various flagship projects.
 
-- Network Analyst Intern, [Unique Corporation]()
-    1. Responsible for monitoring and managing a local area network for maximum uptime for users.
-    2. Responsible for building and maintaining day-to-day operations of the computer network.
+3. Network Analyst Intern, [Unique Corporation](mailto:uniquecorporationindia@gmail.com)
+    - Responsible for monitoring and managing a local area network for maximum uptime for users.
+    - Responsible for building and maintaining day-to-day operations of the computer network.
 
-- Machine Learning Intern, [Airports Authority of India]()
-    1. Build a simple face-detection algorithm to count the no. of the person using OpenCV.
-    2. Surveyed an upcoming project of the organisation.
+4. Machine Learning Intern, [Airports Authority of India](https://www.aai.aero/)
+    - Build a simple face-detection algorithm to count the no. of the person using OpenCV.
+    - Surveyed an upcoming project of the organisation.
 
 ### Honors & Awards 🏅
 
