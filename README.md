@@ -1,12 +1,12 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Gautam](https://predator-coder.github.io)
 
-<a href="https://www.linkedin.com/in/predator-coder/">
+<a href="https://www.linkedin.com/in/predatorcoderr/">
   <img align="left" width="26px" height="26" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"  />
 </a>
-<a href="https://twitter.com/predator_coder">
+<a href="https://twitter.com/predatorcoderr">
   <img align="left" width="26px" height="26" src="https://www.flaticon.com/svg/static/icons/svg/174/174876.svg" />
 </a>
-<a href="mailto:prajapatgautam2017@gmail.com">
+<a href="mailto:predatorcoderr@gmail.com">
   <img align="left" width="26px" height="26" src="https://www.flaticon.com/svg/static/icons/svg/646/646187.svg" />
 </a>
 <a href="http://dev.to/predatorcoder">
