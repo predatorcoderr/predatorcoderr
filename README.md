@@ -1,6 +1,6 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Gautam](https://predator-coder.github.io)
 
-<a href="https://www.linkedin.com/in/predatorcoderr/">
+<!-- <a href="https://www.linkedin.com/in/predatorcoderr/">
   <img align="left" width="26px" height="26" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"  />
 </a>
 <a href="https://twitter.com/predatorcoderr">
@@ -11,7 +11,12 @@
 </a>
 <a href="http://dev.to/predatorcoder">
   <img align="left" width="26px" height="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
+</a> -->
+[![GitHub predatorcoderr](https://img.shields.io/github/followers/predatorcoderr?label=follow&style=social)](https://github.com/predatorcoderr)
+[![Linkedin: Gautam .](https://img.shields.io/badge/-Khushboo%20Verma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/predatorcoderr/)](https://www.linkedin.com/in/predatorcoderr/)
+[![Twitter: Gautam](https://img.shields.io/twitter/follow/predatorcoderr?style=social)](https://twitter.com/predatorcoderr)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=predatorcoderr&left_color=gray&right_color=blue)
+[![Polywork Badge](https://img.shields.io/badge/-khushbooverma-orange?style=flat-square&logo=polywork&logoColor=black&link=http://polywork.com/predatorcoderr)](http://polywork.com/predatorcoderr)
 
 <br>
 
