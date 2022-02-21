@@ -22,30 +22,26 @@
 
 ### About Me 🚀
 
-🎓 I’m a final-year pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻 I’m passionate about Blazor, Deep Learning & I am always curious for learning new technologies(currently learning Quantum Computing). </br>
+🎓 I’m a Computer Science Graduate. </br>
+👨‍💻 I’m passionate about Blazor, React. </br>
 
 ### My Experiences 🙌
+1. Associate Software Engineer, [Accenture](www.accenture.com)
+    - Working as an Associate Software Engineer on AXA XL Project under Cloud First Tools
 
-1. Externship, [AT&T Summer Learning Academy](https://www.youracclaim.com/badges/b05777a7-0f0a-4829-92f6-97032d33f027) 
+2. Externship, [AT&T Summer Learning Academy](https://www.youracclaim.com/badges/b05777a7-0f0a-4829-92f6-97032d33f027) 
     - Performed task focused on technical and business acumen along with professional development.
 
-2. Winter Intern, [MyGov](https://www.mygov.in/)
+3. Winter Intern, [MyGov](https://www.mygov.in/)
     - Performed carious tasks based on analysis, content research of various flagship projects.
 
-3. Network Analyst Intern, [Unique Corporation](mailto:uniquecorporationindia@gmail.com)
+4. Network Analyst Intern, [Unique Corporation](mailto:uniquecorporationindia@gmail.com)
     - Responsible for monitoring and managing a local area network for maximum uptime for users.
     - Responsible for building and maintaining day-to-day operations of the computer network.
 
-4. Machine Learning Intern, [Airports Authority of India](https://www.aai.aero/)
+5. Machine Learning Intern, [Airports Authority of India](https://www.aai.aero/)
     - Build a simple face-detection algorithm to count the no. of the person using OpenCV.
     - Surveyed an upcoming project of the organisation.
-
-### Awards 🏅
-
-- Selected as 1 of 5000 recipients for the [Introduction to Quantum Computing Course with IBM](https://www.qubitbyqubit.org/programs) offered by <b>QubitxQubit</b> whose aim is to expose students to this emerging field while providing them with real-world programming skills for quantum computers.
-- Selected as 1 of 5000 recipients for the [Bertelsmann Technology Scholarships](https://sites.google.com/udacity.com/bertelsmann-challenge/home?authuser=0) designed to upskill students interested in deep learning to build and deploy state-of-the-art deep learning models.
-- Selected as a scholarship recipient for [KubeCon + CloudNativeCon](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2020/) in 2020.
 
 ![Gautam's github stats](https://github-readme-stats.vercel.app/api?username=predatorcoderr&show_icons=true&hide_border=true)
 <br>
