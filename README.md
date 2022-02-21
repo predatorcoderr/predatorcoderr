@@ -47,6 +47,6 @@
 - Selected as 1 of 5000 recipients for the [Bertelsmann Technology Scholarships](https://sites.google.com/udacity.com/bertelsmann-challenge/home?authuser=0) designed to upskill students interested in deep learning to build and deploy state-of-the-art deep learning models.
 - Selected as a scholarship recipient for [KubeCon + CloudNativeCon](https://events19.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2020/) in 2020.
 
-![Gautam's github stats](https://github-readme-stats.vercel.app/api?username=predator-coder&show_icons=true&hide_border=true)
+![Gautam's github stats](https://github-readme-stats.vercel.app/api?username=predatorcoderr&show_icons=true&hide_border=true)
 <br>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=predator-coder.predator-coder)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=predatorcoderr.predatorcoderr)
