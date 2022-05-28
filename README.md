@@ -12,6 +12,7 @@
 
 🎓 I’m a Computer Science Graduate. </br>
 👨‍💻 I’m passionate about web development, user interface and user experiences. </br>
+😶‍🌫️ How to find me? Go Google me - <b>predatorcoderr<b>
 
 ### My Experiences 🙌
 1. Associate Software Engineer, [Accenture](www.accenture.com)
