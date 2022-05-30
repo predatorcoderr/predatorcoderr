@@ -1,5 +1,4 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Gautam](https://predator-coder.github.io)
-
 [![GitHub predatorcoderr](https://img.shields.io/github/followers/predatorcoderr?label=follow&style=social)](https://github.com/predatorcoderr)
 [![Linkedin: Gautam .](https://img.shields.io/badge/-Gautam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/predatorcoderr/)](https://www.linkedin.com/in/predatorcoderr/)
 [![Twitter: Gautam](https://img.shields.io/twitter/follow/predatorcoderr?style=social)](https://twitter.com/predatorcoderr)
